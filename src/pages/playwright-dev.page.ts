@@ -3,6 +3,9 @@ import { expect, Locator, Page } from "@playwright/test";
 import { Element } from "../elements/element";
 import { BasePage } from "./base.page";
 
+/**
+ * Page Object for Playwright Dev page
+ */
 export class PlaywrightDevPage extends BasePage {
   //#region Locators
   getStartedLink = new Element(

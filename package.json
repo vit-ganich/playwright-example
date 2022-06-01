@@ -9,7 +9,11 @@
     "test-debug": "npx playwright test tests/po.spec.ts",
     "open-report": "npx playwright show-report"
   },
-  "keywords": [],
+  "keywords": [
+    "playwright",
+    "typescript",
+    "e2e"
+  ],
   "author": "Vitali Hanich",
   "license": "ISC",
   "devDependencies": {
