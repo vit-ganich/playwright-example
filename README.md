@@ -2,3 +2,4 @@
 
 # playwright-example
 Example repo for E2E test automation with Playwright and Typescript
+CI - GitHub Actions with storing test artifacts
